@@ -1,17 +1,14 @@
 
-# Welcome to Creativity
+#  Creativity and Critical Thinking.
 
 In a previous video, we looked at **curiosity** and its role in feeding creativity.  Today, we'll examine **creativity** and its importance if your ultimate goal is innovative critical thinking and problem solving.
 
 ---
-
 ## So What Is So Magical About Creativity?
-
 Well, honestly — nothing.  
 Oh, I know it *can* seem magical. But really, it isn't. Here's why:
 
 > **Creativity is in all of us**, although it may be hidden away in some dark corner some of us haven't visited in a long time.
-
 ---
 
 ## What *Is* Creativity?
@@ -119,7 +116,6 @@ In your organization — or even in your own life — change starts by **intenti
 
 - Rewarding experimentation: Celebrate efforts, not just outcomes. Creativity thrives when people feel their ideas are valued.
 
-
 ---
 
 ## Key Points Recap
@@ -130,7 +126,6 @@ In your organization — or even in your own life — change starts by **intenti
 
 Stay curious. Stay creative.  
 Let's keep building those thinking skills together.
-
 
 ## Creativity
 
@@ -147,3 +142,66 @@ Think of your creative mind as a shy tortoise. It needs to feel safe before it w
 Remember, we don’t always know where our ideas come from—but it’s definitely not from forcing ourselves in front of a laptop. Ideas often arrive when we are relaxed, daydreaming, or doing something unrelated.
 
 And here’s a thought-provoking insight: Knowing how good you are at something requires the same skills needed to be good at it. In other words, if you're truly bad at something, you may also lack the ability to recognize your own lack of skill. This is a profound realization—many people are unaware of their own limitations simply because they don't have the tools to recognize them.
+
+
+## Different Types of Thinking in Creativity
+
+Creative thinking depends on a balance between two core mental processes: divergent thinking and convergent thinking. You can't succeed by focusing on one while neglecting the other — yet many organizations tend to overemphasize convergent thinking.
+What Is Divergent Thinking?
+
+Divergent thinking is about generating possibilities. It's the process of expanding your thinking to consider a wide range of ideas, even the unconventional or unusual.
+
+   - Encourages openness to all possibilities
+   - Avoids prematurely rejecting ideas
+   - Stimulates creativity by asking, “What else could it be?”
+
+## What Is Convergent Thinking?
+
+*Convergent thinking*, on the other hand, is about narrowing choices and making decisions. It involves applying logic and judgment to select the best idea from many.
+- Involves evaluating and refining ideas
+- Clarifies and focuses thinking
+- Helps move from ideas to action
+
+Both are essential. The creative process requires generating a range of ideas (*divergent thinking*) and then choosing and refining the best ones (*convergent thinking()).
+
+## Concrete vs. Abstract Thinking
+
+In our busy world, we tend to focus on concrete thinking, like:
+
+    *"I have a deadline to finish this project by Tuesday."*
+
+But abstract thinking opens up new perspectives:
+
+    *"Are deadlines the best way to get projects done on time?"*
+
+By starting with broader, more open-ended questions, you allow your mind to explore and connect unexpected ideas. This shift can lead to surprising and innovative outcomes.
+
+## Thin vs. Thick Thinking
+
+Another way to improve creative thinking is to practice thin and thick thinking:
+
+- *Thin thinking*: Basic, surface-level questions (Who? What? Where? When? How?)
+- *Thick thinking*: Deeper, more exploratory questions (What if? Why? What would happen if...?)
+
+Thick thinking pushes your mind beyond the obvious, leading to richer insights and more original ideas.
+
+### Example Exercise:
+
+Scenario: There is a dog in the office.
+
+- Thin thinking: "What is a dog doing here?"
+- Thick thinking:
+        "What if the dog is here to help one of my coworkers?"
+
+        "How might we make dog visits more comfortable and productive for everyone?"
+
+## Recap
+
+-  Divergent thinking = Creating choices
+-  Convergent thinking = Making choices
+Both are necessary for effective creativity.
+
+- Concrete and abstract thinking expand your mental perspective
+- Thin and thick thinking help you ask better questions, leading to better ideas
+
+![Creative Thinking](./creative_thinking.png)
